@@ -3,12 +3,12 @@
 
 Kinetic is a car-sharing infrastructure envisioned and prototyped at the Wanxiang Blockchain Hackathon 2018. The prompt for the hackathon was to design and create a product for Innova City, a future city built on a blockchain. 
 
-Our team came up with an idea for a car-sharing infrastructure built on the blockchain  as a proof of concept of a larger sharing economy enabled by the blockchain, winning $5,000 and an all-expenses paid invitation to Shanghai International Blockchain Week.
+Our team came up with an idea for a car-sharing infrastructure built on the blockchain  as a proof of concept for a larger sharing economy enabled by the blockchain, winning $5,000 and an all-expenses paid invitation to Shanghai International Blockchain Week.
 
 ## Features
-In 24 hours, our team of 5 conceptualized and implemented an idea for a car-sharing infrastructure built into the very fabric of the city, with 2 key features: a public ledger, and a Smart-Car. 
+In 24 hours, our team of 5 conceptualized and implemented an idea for a car-sharing infrastructure built into the very fabric of the city, with 2 key features: a public ledger and a Smart-Car. 
 
-We then prototyped our ideas, ultimately created an MVP that consisted of a:
+We then prototyped our ideas, ultimately creating an MVP that consisted of a:
 - **Smart car:** Prototyped using a Raspberry Pi
 - **Decentralized database:** Created with BigChainDB
 - **Mobile app:** A means of booking a car
