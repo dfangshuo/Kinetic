@@ -24,4 +24,4 @@ My role consisted chiefly of writing the backend web server and creating the mob
 
 The mobile app made HTTP requests to endpoints on the RESTful Kinetic backend, which either wrote/read information into/from the decentralized BigChainDB database or sent requests to the Raspberry Pi Smart-Car prototype.
 
-Other features I was not personally involved in includes Facial Recognition (through an ML library) and data visualization.
+Other features I was not personally involved in includes Facial Recognition (through an ML library) and Data Visualization.
