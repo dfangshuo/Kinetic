@@ -22,6 +22,6 @@ We then prototyped our ideas, ultimately creating an MVP that consisted of a:
 
 My role consisted chiefly of writing the backend web server and creating the mobile app used to book cars. 
 
-For Kinetic, we used BigChainDB as the decentralized database to keep track of when cars were booked and returned, and the mobile app made HTTP requests to endpoints on the RESTful Kinetic backend, which either wrote information into BigChainDB or sent requests to the Raspberry Pi Smart-Car prototype.
+The mobile app made HTTP requests to endpoints on the RESTful Kinetic backend, which either wrote/read information into/from the decentralized BigChainDB database or sent requests to the Raspberry Pi Smart-Car prototype.
 
 Other features I was not personally involved in includes Facial Recognition (through an ML library) and data visualization.
